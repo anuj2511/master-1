@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "chinyasuhail",
+      "name": "Suhail",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/42859854?v=4",
+      "profile": "https://en.wikipedia.org/wiki/Mohammed_Suhail_Chinya_Salimpasha",
+      "contributions": [
+        "design",
+        "financial",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "master",
+  "projectOwner": "covid-sh",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
